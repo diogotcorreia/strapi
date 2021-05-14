@@ -18045,10 +18045,10 @@ side-channel@^1.0.4:
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
 
-sift@13.5.0, sift@^13.0.0:
-  version "13.5.0"
-  resolved "https://registry.yarnpkg.com/sift/-/sift-13.5.0.tgz#0f46fd0b2432bd516307d2c32bff3b142a8ab530"
-  integrity sha512-YoS8hmXbmJcf1Gde5bR7+pq69+Nvfv5eHTyv4B00YxJAejTEfzvamG8LHzb0jAFFciMkY05K7GG3P7n/gm0+gg==
+sift@13.5.3, sift@^13.0.0:
+  version "13.5.3"
+  resolved "https://registry.yarnpkg.com/sift/-/sift-13.5.3.tgz#4b41e4ee02ac5482f76507f4449fc5d90c92a9b6"
+  integrity sha512-KnA9BluMbwkFm21O1dR+0FeliK+waXG+ICbpdMWnLR2clgZfU2fuVNqi2EhsBFiVtApuYMclrM1wPbYoGeHfEA==
 
 sift@7.0.1:
   version "7.0.1"
